@@ -3,8 +3,8 @@ Here a list of All tools, Repositories, useful links to help with your API docum
 Please help by forking this repo. and add anything you use or find useful and send a pull request
 
 ## List of Generation tools
-[Yard **Ruby** Documentation Tool](http://yardoc.org/)
-[**CoffeeScript** API documentation generator](https://github.com/coffeedoc/codo)
+[Yard **Ruby** Documentation Tool](http://yardoc.org/).
+[**CoffeeScript** API documentation generator](https://github.com/coffeedoc/codo).
 [Sami: an API documentation generator for **PHP**](https://github.com/FriendsOfPHP/Sami)
    [An example of Sami - Grav a CMS built using PHP with no need of a DB](http://learn.getgrav.org)
 [OpenAPI specification fka Swagger **RESTful API Documentation** Specification. **Language agnostic**](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md)
