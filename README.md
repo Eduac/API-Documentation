@@ -38,7 +38,7 @@ IEE Standard for Adoption of ISO/IEC 26513:2009 [Systems and Software Engineerin
 
 ## List of People influencing / interested in API documentation
 
-## List of paper about API documentation
+## List of papers about API documentation
 
 
 
