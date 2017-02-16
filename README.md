@@ -1,6 +1,7 @@
 # API-Documentation
-Here a list of All tools, Repositories, useful links to help with your API documentation
-Please help by forking this repo. and add anything you use or find useful and send a pull request
+Here is a list of tools, Repositories, useful links to help with your API documentation. It will also include any reference, standard and published journal article or paper.
+
+Please help by forking this repository and add anything you use or find useful and send a pull request.
 
 ## List of Generation tools
 [Yard **Ruby** Documentation Tool](http://yardoc.org/).
@@ -36,3 +37,9 @@ IEE Standard for Adoption of ISO/IEC 26513:2009 [Systems and Software Engineerin
 
 
 ## List of People influencing / interested in API documentation
+
+## List of paper about API documentation
+
+
+
+
