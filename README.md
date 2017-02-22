@@ -39,7 +39,7 @@ IEE Standard for Adoption of ISO/IEC 26513:2009 [Systems and Software Engineerin
 
 
 ## List of People influencing / interested in API documentation
-
+[StackOverflow Documentation -- Kevin Montrose](https://stackoverflow.blog/authors/kevinmontrose/)
 ## List of papers about API documentation
 
 
