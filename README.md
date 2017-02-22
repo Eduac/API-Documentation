@@ -1,7 +1,7 @@
 # API-Documentation
 Here is a list of tools, Repositories, useful links to help with your API documentation. It will also include any reference, standard and published journal article or paper.
 
-Please help by forking this repository and add anything you use or find useful and send a pull request.
+Please help by forking this repository and add anything you use or find useful and send a pull request. All contributions will have CC-BY-SA and attribution.
 
 ## List of Generation tools
 [Yard **Ruby** Documentation Tool](http://yardoc.org/).
