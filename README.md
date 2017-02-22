@@ -29,6 +29,8 @@ IEEE Standard for Adoption of ISO/IEC 26514:2008 [Systems and Software Engineeri
 IEE Standard for Adoption of ISO/IEC 26513:2009 [Systems and Software Engineering - Requirements for testers and Reviewers of User Documentation](ieeexplore.ieee.org/document/5712772)
 
 ## List of Useful articles 
+[Best Practices for Writing API Docs and Keeping Them Up To Date](https://blog.readme.io/best-practices-for-writing-api-docs-and-keeping-them-up-to-date/)
+[Why These API Docs are Better Than Yours (And what you can do about it)](https://blog.readme.io/why-these-api-docs-are-better-than-yours-and-what-you-can-do-about-it/)
 [Thoughts on Docs – So what if I have bad documentation?](https://www.ibm.com/blogs/bluemix/2017/01/thoughts-on-docs/)
 
 [API Documentation and Developer Portals: common URL patterns](https://pronovix.com/blog/api-documentation-and-developer-portals-common-url-patterns)
