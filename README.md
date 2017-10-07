@@ -4,6 +4,7 @@ Here is a list of tools, Repositories, useful links to help with your API docume
 Please help by forking this repository and add anything you use or find useful and send a pull request. All contributions will have CC-BY-SA and attribution.
 
 ## List of Generation tools
+Beautiful Static Documentation for your API (https://github.com/lord/slate), inspired by Strip's API docs and PayPal's docs.
 [Yard **Ruby** Documentation Tool](http://yardoc.org/).
 
 [**CoffeeScript** API documentation generator](https://github.com/coffeedoc/codo).
