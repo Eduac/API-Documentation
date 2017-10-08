@@ -9,6 +9,7 @@ Beautiful Static Documentation for your API (https://github.com/lord/slate), ins
 
 [**CoffeeScript** API documentation generator](https://github.com/coffeedoc/codo).
 
+[Creates markdown API documentation from jsdoc-commented javascript](https://github.com/jsdoc2md/jsdoc-to-markdown).
 [Sami: an API documentation generator for **PHP**](https://github.com/FriendsOfPHP/Sami)
 
    [An example of Sami - Grav a CMS built using PHP with no need of a DB](http://learn.getgrav.org)
